@@ -14,7 +14,7 @@ This free plugin lets you upload your models either via direct URL or from your 
 
 🎥 Watch the full tutorial video here:
 
-👉 [Watch Video Tutorial]([https://codessculpt.net/your-video-link](https://youtu.be/QQcDr497JHg))
+👉 [![Watch the video](https://img.youtube.com/vi/eyYm_o-_yRk/maxresdefault.jpg)]([https://www.youtube.com/watch?v=eyYm_o-_yRk](https://youtu.be/QQcDr497JHg))
 
 ---
 
