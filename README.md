@@ -14,11 +14,11 @@ This free plugin lets you upload your models either via direct URL or from your 
 
 🎥 Watch the full tutorial video here:
 
-👉 [Watch Video Tutorial](https://codessculpt.net/your-video-link)
+👉 [Watch Video Tutorial]([https://codessculpt.net/your-video-link](https://youtu.be/QQcDr497JHg))
 
 ---
 
 📥 Download the plugin for free:  
-[GLB Viewer Plugin for WordPress](https://codessculpt.net/plugins/glb-viewer)
+[GLB Viewer Plugin for WordPress](https://codessculpt.net/portfolio/glb-viewer-plugin-for-wordpress/)
 
 I’d love to hear your feedback and su
