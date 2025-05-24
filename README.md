@@ -14,7 +14,7 @@ This free plugin lets you upload your models either via direct URL or from your 
 
 🎥 Watch the full tutorial video here:
 
-👉 [![Watch the video](https://i9.ytimg.com/vi/QQcDr497JHg/mqdefault.jpg?v=6831ae09&sqp=COjkxsEG&rs=AOn4CLDGAY_KM641i7i9eN40lJAoI2BwCA)]([https://www.youtube.com/watch?v=eyYm_o-_yRk](https://youtu.be/QQcDr497JHg))
+👉 [![Watch the video]([https://www.youtube.com/watch?v=eyYm_o-_yRk](https://youtu.be/QQcDr497JHg))
 
 ---
 
